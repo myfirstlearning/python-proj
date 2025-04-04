@@ -10,6 +10,7 @@
 # pet = input("What is your pet's name?" + "\n")
 # print("Your band name could be " + location + " " + pet)
 
+
 ##Solution-2
 print("Your band name could be " +
       input("What's the name of the city you grew up in?\n") + " " +
